@@ -12,7 +12,7 @@ I'm excited to share my journey into the world of data science and technology to
 
 🎯 My mission is to leverage data-driven solutions and emerging technologies to shape the future of healthcare positively. By combining my clinical insights with cutting-edge data science techniques, I aim to create innovative solutions that enhance patient care, optimize medical processes, and improve overall healthcare delivery.
 
-🚀 The Bootcamp was just the start for me: my next Step is to study Computer Science
+🚀 The Bootcamp was just the start for me: my next step is to study Computer Science
 
 ## My Interests
 
