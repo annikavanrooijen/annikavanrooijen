@@ -1,4 +1,4 @@
-.# Welcome to My GitHub Profile 👩🏻‍⚕️
+# Welcome to My GitHub Profile 👩🏻‍⚕️
 
 Hello there! I'm Annika - A nurse with six years of practical experience in clinical and home care settings. 
 My journey in healthcare has been incredibly fulfilling, but the beginning of the year, I decided to quit my job as a nursing specialist to promote the digital transformation of the health care sector in Germany.
